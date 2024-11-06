@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543067032620",
+    "project_id": "pointofinterests-6858e",
+    "storage_bucket": "pointofinterests-6858e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543067032620:android:b42ee61765507cb1b71589",
+        "android_client_info": {
+          "package_name": "com.pointofinterests"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyFId-Wa4ZZJ8j5PaeY0kzUSl5k340ZKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
